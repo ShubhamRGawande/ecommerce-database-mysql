@@ -20,7 +20,8 @@ This project demonstrates **database design, normalization, relationships, store
 ## 🗂️ Database Schema
 
 ### ERD Diagram
-![Styled E-Commerce ERD](erd_styled.png)
+<img width="1536" height="1024" alt="E-Commerce Database ERD Overview" src="https://github.com/user-attachments/assets/858996c2-5728-45a5-bb27-7cf4abc9ff0b" />
+
 
 ### Tables
 - Users  
